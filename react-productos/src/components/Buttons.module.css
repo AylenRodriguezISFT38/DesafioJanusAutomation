@@ -1,0 +1,33 @@
+
+.btnEditar{
+    border: none;
+    background-color: rgb(221, 221, 127);
+    color:#fafafa;
+    padding: .4rem 2rem;
+    border-radius: .3rem;
+    margin: .5rem .2rem;
+}
+.btnEliminar{
+    border: none;
+    background-color: rgb(221, 127, 127);
+    color:#fafafa;
+    padding: .4rem 2rem;
+    border-radius: .3rem;
+    margin: .5rem 0;
+}
+
+.btnCrear:hover, .btnCrear2:hover {
+    background:linear-gradient(to left, rgb(95,204,168), rgb(60, 141, 114));
+    cursor: pointer;
+    transition: .5s all;
+}
+.btnEditar:hover{
+    background:linear-gradient(to left, rgb(221, 221, 127), rgb(190, 178, 69));
+    cursor: pointer;
+    transition: .5s all;
+}
+.btnEliminar:hover{
+    background:linear-gradient(to left, rgb(221, 127, 127), rgb(168, 62, 62));
+    cursor: pointer;
+    transition: .5s all;
+}

@@ -1,0 +1,140 @@
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\TestJannusAutomation.exe
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\TestJannusAutomation.deps.json
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\TestJannusAutomation.runtimeconfig.json
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\TestJannusAutomation.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\TestJannusAutomation.pdb
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.csproj.AssemblyReference.cache
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.AssemblyInfoInputs.cache
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.AssemblyInfo.cs
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets\msbuild.TestJannusAutomation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets\msbuild.build.TestJannusAutomation.props
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TestJannusAutomation.props
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TestJannusAutomation.props
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\scopedcss\bundle\TestJannusAutomation.styles.css
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.csproj.CopyComplete
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\refint\TestJannusAutomation.dll
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.pdb
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.genruntimeconfig.cache
+C:\Users\Lenchu\Desktop\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\ref\TestJannusAutomation.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\TestJannusAutomation.exe
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\TestJannusAutomation.deps.json
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\TestJannusAutomation.runtimeconfig.json
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\TestJannusAutomation.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\TestJannusAutomation.pdb
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.csproj.AssemblyReference.cache
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.AssemblyInfoInputs.cache
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.AssemblyInfo.cs
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets\msbuild.TestJannusAutomation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets\msbuild.build.TestJannusAutomation.props
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TestJannusAutomation.props
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TestJannusAutomation.props
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\scopedcss\bundle\TestJannusAutomation.styles.css
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.csproj.CopyComplete
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\refint\TestJannusAutomation.dll
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.pdb
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\TestJannusAutomation.genruntimeconfig.cache
+C:\Users\Lenchu\Desktop\Desafio jannus automation\TestJannusAutomation\TestJannusAutomation\obj\Debug\net6.0\ref\TestJannusAutomation.dll
